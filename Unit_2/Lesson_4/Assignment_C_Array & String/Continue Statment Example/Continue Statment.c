@@ -6,7 +6,7 @@ int main()
     float Num , Product = 1.0 ;
  
 
-    // Loop to get user inputs ( 4 Only)
+    // Loop to get user inputs (4 Only)
       for ( int i = 1 ; i <= 4 ; i++) 
     {
       printf ("\n Enter Value of Number \" %d \" : " , i );
